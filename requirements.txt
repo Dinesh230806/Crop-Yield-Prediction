@@ -1,0 +1,5 @@
+Flask==2.2.5
+pandas
+xgboost
+scikit-learn
+flask-cors
